@@ -46,7 +46,7 @@ Txtscrolling()
 	level endon("game_ended");
 
 	level.txtBottom = "Press ^1[{+talk}] ^2(VoiceChatKey) ^7for Change team";
-    level.canScroll = 1;
+    	level.canScroll = 0;
 	level.scrollSpeed = 30;	
 	level.hudBottom = createServerFontString ("Objective", 1);
 	level.hudBottom setPoint ("BOTTOMCENTER", "BOTTOMCENTER", 0, -5 );
