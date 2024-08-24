@@ -1,5 +1,5 @@
 # ChangeteamFix
-Fix for H2 team switching using a key command
+GSC Script Fix for H2 team switching using a key command
 
 In this case, using the Voice Chat key calls up the team selection menu. 
 
