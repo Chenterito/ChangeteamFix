@@ -14,3 +14,8 @@ It has not been tested for a long time, maybe it could cause errors in some maps
 
 Copy the file ""changeteamFixH2.gsc" into "user_scripts\mp" of your COD MWR folder.
 
+![image](https://github.com/user-attachments/assets/6b2222c5-e7a4-401e-8655-f5f8fce25b60)
+
+![image](https://github.com/user-attachments/assets/98ebbe61-26c3-4951-b3e5-d7d9c71f8b68)
+
+
